@@ -11,11 +11,12 @@
 </div>
 <br />
 <br />
-I'm a Software Engineer at EdgeVerve (An Infosys' Product Company). I graduated from Manipal University Jaipur in Electronics and Communications in 2018. A frontend web developer having knack for React.
+I'm a Product Engineer at EdgeVerve (An Infosys' Product Company). I graduated from Manipal University Jaipur in Electronics and Communications in 2018. A frontend web developer having knack for React.
 
 *Languages and Tools:*
 
 - Web Development - Javascript, React, HTML, CSS, Sass, Bootstrap.
+- Map Libraries - Mapbox.js, Mapbox Gl, Leaflet
 - Testing - Python Unittest
 
 Thank You,<br />
