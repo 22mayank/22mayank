@@ -11,13 +11,14 @@
 </div>
 <br />
 <br />
-I'm a Product Engineer at EdgeVerve (An Infosys' Product Company). I graduated from Manipal University Jaipur in Electronics and Communications in 2018. A frontend web developer having knack for React.
+I'm a Senior Software Engineer at Deloitte Studios (Deloitte Consulting USI). I graduated from Manipal University Jaipur in Electronics and Communications in 2018. A frontend web developer having knack for React.
 
 *Languages and Tools:*
 
-- Web Development - Javascript, React, HTML, CSS, Sass, Bootstrap.
+- Web Development - Javascript, React, HTML, CSS, Sass, Bootstrap, Material UI, Angular 12, Redux.
 - Map Libraries - Mapbox.js, Mapbox Gl, Leaflet
 - Testing - Python Unittest
+- Server - Nginx
 
 Thank You,<br />
 Mayank<br />
